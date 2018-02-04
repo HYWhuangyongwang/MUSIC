@@ -17,7 +17,7 @@ html,body,.container{
     z-index : -2;
 }
 .container .backgroundImg{
-    background: url(../img/1.jpg) no-repeat;
+    background: url(../img/myDream.jpg) no-repeat;
     background-size: cover;
     -webkit-filter: blur(7px);
     filter:blur(7px);
